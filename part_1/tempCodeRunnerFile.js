@@ -1,1 +1,1 @@
-parseInt
+findMaxNum
